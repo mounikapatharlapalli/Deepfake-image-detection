@@ -8,6 +8,7 @@ Feature Extraction: Utilizes convolutional neural networks (CNNs) to extract key
 Model Training: Implements various deep learning architectures for detecting deepfake artifacts and inconsistencies.
 Evaluation Metrics: Provides detailed performance metrics including accuracy, precision, recall, and F1-score to assess model efficacy.
 User Interface: Features a simple, intuitive UI for easy interaction and visualization of results.
+
 Technologies Used:
 Python
 PyTorch
